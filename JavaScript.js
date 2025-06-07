@@ -40,5 +40,5 @@ setInterval(()=> moveCarousel("forward",imgsContainer),5000);
 
 
 
-
+module.exports = moveCarousel;
 
